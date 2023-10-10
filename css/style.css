@@ -42,7 +42,36 @@ header {
 /* stili main */
 .main-container {
   width: 60%;
-  margin: 70px auto;
-  background-color: rgb(248, 8, 8);
+  margin: 60px auto;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 5px;
 }
 
+.buttons-container {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  padding-left: 70px;
+  border-bottom: 3px solid rgb(238, 238, 238);
+}
+
+#button-task {
+  padding: 8px 15px 8px 15px;
+  background-color: rgb(12, 172, 221);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#button-section {
+  padding: 7px 14px 7px 14px;
+  background-color: white;
+  color: rgb(191, 191, 191);
+  border: 2px solid rgb(191, 191, 191);
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 5px;
+}
