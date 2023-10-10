@@ -24,24 +24,24 @@ header {
   width: 90%;
   margin: auto;
   padding: 15px 0;
-  line-height: 70px;
-  vertical-align: middle;
 }
 
 #logo {
   height: 70px;
+  line-height: 70px;
+  vertical-align: middle;
 }
 
 #logo-text {
   font-size: 50px;
   font-weight: 900;
-  margin-left: 20px;
+  margin-left: 10px;
+  vertical-align: middle;
 }
 
 /* stili main */
 .main-container {
   width: 60%;
-  height: 60%;
   margin: 70px auto;
   background-color: rgb(248, 8, 8);
 }
