@@ -1,0 +1,43 @@
+/* stili generali */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+}
+
+body {
+  background-color: rgb(238, 238, 238);
+}
+
+/* stili header */
+header {
+  height: 100px;
+  background-color: white;
+}
+
+.header-container {
+  width: 90%;
+  margin: auto;
+  padding: 15px 0;
+  line-height: 70px;
+  vertical-align: middle;
+}
+
+#logo {
+  height: 70px;
+}
+
+#logo-text {
+  font-size: 50px;
+  font-weight: 900;
+  margin-left: 20px;
+}
+
+/* stili main */
+
+
