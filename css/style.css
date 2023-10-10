@@ -39,5 +39,10 @@ header {
 }
 
 /* stili main */
-
+.main-container {
+  width: 60%;
+  height: 60%;
+  margin: 70px auto;
+  background-color: rgb(248, 8, 8);
+}
 
